@@ -1,3 +1,1 @@
-const question = document.querySelector("p");
-
-question.style.backgroundColor = "green";
+document.querySelector("p").style.backgroundColor = "green";
